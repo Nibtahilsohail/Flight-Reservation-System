@@ -1,0 +1,10 @@
+Ticket Details
+Name: nibtahil
+CNIC: 12345678
+Flight Number: int2
+Departure: pakistan
+Arrival: Paris
+Departure Time: 10:00 AM
+Arrival Time: 06:00 PM
+Seat Type: Business Class
+Price: $1100
